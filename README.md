@@ -6,8 +6,11 @@ Estudante: Ana Clara Loureiro Muller Zaidan
 ## Tecnologias utilizadas
 
 - .NET
+  - Uma plataforma de desenvolvimento de software criada pela Microsoft, que oferece uma estrutura abrangente para construir uma variedade de aplicativos.
 - SonarQube
+  - Uma plataforma de código aberto utilizada para avaliar e melhorar a qualidade do código-fonte.
 - Docker
+  - Uma plataforma de código aberto que permite que os desenvolvedores empacotem, distribuam e executem aplicativos em contêineres.
   
 ## Conceitos aprendidos
 
@@ -22,15 +25,16 @@ O SonarQube é uma ferramentea que realiza uma revisão de código automática, 
 Nesse sentido, o Docker foi utilizado para rodar o SonarQube de forma simples e rápida:
 -     docker run -d --name sonarqube -p 9000:9000 -p 9092:9092 sonarqube
 
-//img3
+![docker](./assets/img1.png)
 
 Após fazer todo o setup, foi possivel acessar a interface do SonarQube através do localhost, e ter acesso a todas as suas funcionalidades de gerenciamento de código:
 
-//img2
+![docker](./assets/img2.png)
 
 Inicialmente, a ferramenta utiliza de padrões de qualidade e métricas default, mas é possivel aplicar diversos niveis de personalização na plataforma, garantindo a melhor abordagem em relação a cada projeto específico.
+
 Logo, ela te da acesso a relatórios detalhados de diversos aspectos do código, como bugs, vulnerabilidades, dívida técnica, cobertura de testes, não só apontando problemas, mas mostrando possiveis soluções e o tempo estimado para aplicá-las, como é visualizado na imagem abaixo:
 
-//img3
+![docker](./assets/img3.png)
 
 Claramente, é uma ferramenta inovadora e extremamente útil no desenvolvimento de código de qualidade.
