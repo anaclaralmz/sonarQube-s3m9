@@ -1,0 +1,13 @@
+﻿/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/Controllers/SampleController.cs
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/Program.cs
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/SampleModel.cs
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/Startup.cs
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/obj/Debug/net5.0/SampleApp.AssemblyInfo.cs
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/obj/Debug/net5.0/SampleApp.MvcApplicationPartsAssemblyInfo.cs
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/appsettings.Development.json
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/appsettings.json
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/.gitignore
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/LICENSE
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/README.md
+/Users/anaclaramuller/Documents/GitHub/dotnet-sonarqube-example/Properties/launchSettings.json
